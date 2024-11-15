@@ -18,7 +18,7 @@ The following diagram shows you how the ARR value affects the period (frequency)
 STM32 Timers – PWM Output Channels
 
 Each Capture/Compare channel is built around a capture/compare register (including a shadow register), an input stage for capture (with a digital filter, multiplexing, and Prescaler) and an output stage (with comparator and output control). The output stage generates an intermediate waveform which is then used for reference: OCxRef (active high). The polarity acts at the end of the chain.
-![image](https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/87457b57-4311-440b-8cbe-a9d78db4335a)
+<img height=10% width=50% src="https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/87457b57-4311-440b-8cbe-a9d78db4335a">
 
 STM32 Timers In PWM Mode
 
@@ -190,15 +190,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output screen shots of proteus  :
  
- ![Screenshot 2024-10-14 025530](https://github.com/user-attachments/assets/c10d815a-d494-45a8-9174-d7db653fab85)
+ <img height=5% width=50% src="https://github.com/user-attachments/assets/c10d815a-d494-45a8-9174-d7db653fab85">
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![image](https://github.com/user-attachments/assets/423b0d51-e314-490e-ade7-3ea13f24ff99)
+<img height=5% width=50% src="https://github.com/user-attachments/assets/423b0d51-e314-490e-ade7-3ea13f24ff99">
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
-![Screenshot 2024-10-14 025631](https://github.com/user-attachments/assets/635802d7-b841-4846-a0dd-6c13fae4f3ca)
+<img height=5% width=50% src="https://github.com/user-attachments/assets/635802d7-b841-4846-a0dd-6c13fae4f3ca">
 
 TON = 2ms
 TOFF=2ms
@@ -207,7 +207,7 @@ FREQUENCY = 1/4 = 250Hz
 
 
 FOR PULSE AT 700
-![Screenshot 2024-10-14 083638](https://github.com/user-attachments/assets/a3179701-36a2-4441-a1d2-6914642e1422)
+<img height=5% width=50% src="https://github.com/user-attachments/assets/a3179701-36a2-4441-a1d2-6914642e1422">
 
 TON = 3ms
 TOFF= 1ms
@@ -216,7 +216,7 @@ FREQUENCY = 1/4 = 250Hz
 
 
 FOR PULSE AT 900
-![Screenshot 2024-10-14 083652](https://github.com/user-attachments/assets/41966022-c24f-4ad5-98d6-020539e41833)
+<img height=5% width=50% src="https://github.com/user-attachments/assets/41966022-c24f-4ad5-98d6-020539e41833">
 
 TON = 3.5ms
 TOFF= 0.5ms
