@@ -190,15 +190,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output screen shots of proteus  :
  
- <img height=5% width=50% src="https://github.com/user-attachments/assets/c10d815a-d494-45a8-9174-d7db653fab85">
+ <img height=5% width=30% src="https://github.com/user-attachments/assets/c10d815a-d494-45a8-9174-d7db653fab85">
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-<img height=5% width=50% src="https://github.com/user-attachments/assets/423b0d51-e314-490e-ade7-3ea13f24ff99">
+<img height=5% width=30% src="https://github.com/user-attachments/assets/423b0d51-e314-490e-ade7-3ea13f24ff99">
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
-<img height=5% width=50% src="https://github.com/user-attachments/assets/635802d7-b841-4846-a0dd-6c13fae4f3ca">
+<img height=5% width=30% src="https://github.com/user-attachments/assets/635802d7-b841-4846-a0dd-6c13fae4f3ca">
 
 TON = 2ms
 TOFF=2ms
@@ -207,7 +207,7 @@ FREQUENCY = 1/4 = 250Hz
 
 
 FOR PULSE AT 700
-<img height=5% width=50% src="https://github.com/user-attachments/assets/a3179701-36a2-4441-a1d2-6914642e1422">
+<img height=5% width=30% src="https://github.com/user-attachments/assets/a3179701-36a2-4441-a1d2-6914642e1422">
 
 TON = 3ms
 TOFF= 1ms
@@ -216,7 +216,7 @@ FREQUENCY = 1/4 = 250Hz
 
 
 FOR PULSE AT 900
-<img height=5% width=50% src="https://github.com/user-attachments/assets/41966022-c24f-4ad5-98d6-020539e41833">
+<img height=5% width=30% src="https://github.com/user-attachments/assets/41966022-c24f-4ad5-98d6-020539e41833">
 
 TON = 3.5ms
 TOFF= 0.5ms
